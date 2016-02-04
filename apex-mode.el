@@ -1,5 +1,3 @@
-;; -*- Mode: Emacs-Lisp -*-
-
 ;;; apex-mode.el -- Major mode for Salesforce Apex files (Apex 18.0 - Winter '10 Release)
 
 ;; Software License Agreement (BSD License)
